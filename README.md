@@ -9,7 +9,7 @@ children:
   
   
 # Support
-Open an <a href="https://github.com/Wertzui123/SignColorPerms/issues/new">issue</a> or contact me on <a href="">discord</a>.
+Open an <a href="https://github.com/Wertzui123/SignColorPerms/issues/new">issue</a> or contact me on <a href="https://discord.gg/azPt6eJ">discord</a>.
   
 # Credits
 Written by @Wertzui123
