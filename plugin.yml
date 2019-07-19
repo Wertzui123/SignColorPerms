@@ -1,0 +1,16 @@
+name: SignColorPerms
+main: Wertzui123\SignColorPerms\Main
+version: 1.0
+api: 3.0.0
+author: Wertzui123
+load: POSTWORLD
+description: Adds permissions for color on signs
+website: https://github.com/Wertzui123/SignColorPerms
+permissions:
+  signcolorperms:
+    description: All scp permissions
+    default: op
+    children:
+      scp.colors:
+        description: Let you write with color on signs
+        default: op
