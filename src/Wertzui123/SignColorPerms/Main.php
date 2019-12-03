@@ -19,7 +19,7 @@ class Main extends PluginBase implements Listener {
     }
 
     public function checkColors($msg, Player $player){
-        if($player->hasPermission("scp.color")){
+        if($player->hasPermission("scp.colors")){
             return $msg;
         }
         $string = str_replace(TextFormat::BLACK, '', $msg);
