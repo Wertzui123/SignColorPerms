@@ -1,5 +1,6 @@
 # SignColorPerms
-Adds perms for writing with colors on signs.
+**This plugin does not work right now!**
+<br>Adds perms for writing with colors on signs.
 Phar can be found <a href="https://poggit.pmmp.io/ci/Wertzui123/SignColorPerms/SignColorPerms">here on poggit</a>.
 
 # Permissions
